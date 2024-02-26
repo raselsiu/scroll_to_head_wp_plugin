@@ -1,0 +1,13 @@
+/* Image style */
+#scrollUp {
+  background-image: url("../img/top.png");
+  background-size: contain;
+  background-color: rgb(43, 43, 43);
+  border-radius: 25px;
+  bottom: 20px;
+  right: 20px;
+  width: 40px; /* Width of image */
+  height: 40px; /* Height of image */
+  text-indent: -999999px;
+  display: block;
+}
